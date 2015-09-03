@@ -1,0 +1,17 @@
+{
+  "name": "mean-to-do-app",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kp4912gh/mean-to-do-app",
+  "description": "A MEAN stack Todo App",
+  "main": "app.js",
+  "authors": [
+    "kp4912gh"
+  ],
+  "license": "GPL-2.0",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-route": "~1.4.5",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
